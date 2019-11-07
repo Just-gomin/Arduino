@@ -5,6 +5,9 @@
   
   사용 키트 : [코딩어레이 - 스타터 키트 for 아두이노](https://smartstore.naver.com/arduinostory/products/4350766869) 
   
+  주요 학습 자료 : [코딩어레이](https://codingarray.cc/)
+                   [코딩런](https://codingrun.com/)
+  
   앞으로의 목표들 입니다.
   
   1차 : [한글 시계](https://www.youtube.com/watch?v=3OnIf-UtNqs)
